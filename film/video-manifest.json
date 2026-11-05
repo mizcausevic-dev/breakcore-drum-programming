@@ -1,0 +1,26 @@
+{
+  "title": "Breakcore Drum Programming",
+  "study": "bdp01",
+  "bpm": 180,
+  "source_audio": "preview/breakcore-drum-programming-simple-synth-preview.mp3",
+  "source_audio_sha256": "237d18eec7e9f7604cbf10ad40d338e0fd2b4e600d5ace4f777886233e24c40a",
+  "source_midi": "midi/bdp01-torn-grid/bdp01-torn-grid-combined.mid",
+  "source_midi_sha256": "ced0464ce137259935e404a0d36689e54b4e25803b1cb756d846acbb158f9876",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "faa409f0aba7a0591bfb7347125a112e30d1569528d8f68e27876353d653fbe9",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "68884e387e0e04256fe3618d81cea402d645ac61ca2855f6d4aba114f84ceab5",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "fc9bed090bc409f5e717f3446133e7af93a0b2fc4d08488dd80ad1b04e0b178a",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

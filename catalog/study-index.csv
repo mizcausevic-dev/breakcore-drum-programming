@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bdp01,Torn Grid,pack-local equal-tempered pitch collection,C,180,4/4,480,32,61440,midi/bdp01-torn-grid/bdp01-torn-grid-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bdp02,Fast Corner,pack-local equal-tempered pitch collection,D#,180,4/4,480,32,61440,midi/bdp02-fast-corner/bdp02-fast-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bdp03,Red Cut,pack-local equal-tempered pitch collection,F#,180,4/4,480,32,61440,midi/bdp03-red-cut/bdp03-red-cut-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bdp04,Broken Return,pack-local equal-tempered pitch collection,C#,180,4/4,480,32,61440,midi/bdp04-broken-return/bdp04-broken-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
