@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/breakcore-drum-programming-midi.zip",
-      "bytes": 31591,
-      "sha256": "2be7c6107a7c832ca178eff68f255d71b5f171f8579c0662555482c4cef5ef68"
+      "bytes": 33857,
+      "sha256": "6f659fe50bde1a2129ec2f3cfec64a30a54d20b1476e137e7a2fc737e010a5a7"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9604,
-      "sha256": "929f1a662287822637e986df4821c6afb00be06cf513138552920b15d3fc4b51"
+      "bytes": 9794,
+      "sha256": "37e6411c45eff9a6f3fcc4ab4e8c6e99d2e779bf8b828a6654817ba730e1bd1c"
     },
     {
       "path": "midi/bdp01-torn-grid/bdp01-torn-grid-combined.mid",
@@ -377,6 +377,11 @@
       "sha256": "689ad378e1f6633a1d500cc8fb99a51e42aa9c0080972f1242aed3978fb31e65"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/breakcore-drum-programming-simple-synth-preview.mp3",
       "bytes": 1037627,
       "sha256": "237d18eec7e9f7604cbf10ad40d338e0fd2b4e600d5ace4f777886233e24c40a"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3913,
-      "sha256": "39b574a27d42c9a9bd1ced67440abef96d64f0a933d9ff227ba7f90143c96f9a"
+      "bytes": 4028,
+      "sha256": "8cfbf614bff03c2728ae785c5b4bc50be99a921331e6cf132412324739be860a"
     },
     {
       "path": "social/instagram/caption.txt",
